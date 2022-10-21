@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @furkaanpnr
-- 👀 I’m interested in Technology.
+- 👀 I’m interested in Computer Technologies and Cyber Security
 - 🌱 I’m currently learning Java,Python.
 - 💞️ I’m looking to collaborate on Small Projects.
 - 📫 How to reach me furkanpnr220@gmail.com
